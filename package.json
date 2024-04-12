@@ -1,0 +1,23 @@
+{
+  "name": "cusca-bike-api-w-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvnramos/cusca-bike-api.git"
+  },
+  "keywords": [
+    "microservices",
+    "api",
+    "gateway",
+    "api",
+    "api",
+    "rest"
+  ],
+  "author": "Marvin Ramos | @marvnramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvnramos/cusca-bike-api/issues"
+  },
+  "homepage": "https://github.com/marvnramos/cusca-bike-api#readme"
+}
