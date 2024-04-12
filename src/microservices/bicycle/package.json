@@ -1,5 +1,5 @@
 {
-  "name": "bicycle",
+  "name": "bicycle-service",
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
@@ -10,7 +10,7 @@
     "prestart": "npm run build"
   },
   "keywords": [],
-  "author": "Marvin Ramos 🥸",
+  "author": "Marvin Ramos",
   "license": "ISC",
   "devDependencies": {
     "express": "4.19.2",
