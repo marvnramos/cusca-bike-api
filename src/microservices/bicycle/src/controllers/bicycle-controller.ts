@@ -2,6 +2,7 @@ import { Request, Response } from 'express';
 
 class BicycleController{
     static async createBicycle(req: Request, res: Response){
+        res.status(201).json({message: 'Bicycle created successfully'});
         // todo: logic to create a bicycle
     }
     static async getBicycles(req: Request, res: Response){
