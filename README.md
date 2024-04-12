@@ -1,1 +1,1 @@
-Deployment: https://bicycle-service-cb-api.vercel.app
+Deployment: https://bicycle-service.vercel.app
